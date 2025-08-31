@@ -42,6 +42,8 @@ function draw() {
 
 	// other change here
 
+	// other change that I forgot 
+
   	let next = maker2DGrid(rows, coluns);
 
   	//Verify neighbors
