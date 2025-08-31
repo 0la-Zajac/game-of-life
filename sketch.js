@@ -40,12 +40,12 @@ function draw() {
 		}
 	} 
 
-	// other change here
+	// other change here 
 
-	// other change that I forgot 
+	// another one but deleting the previous one
 
   	let next = maker2DGrid(rows, coluns);
-
+ 
   	//Verify neighbors
   	for(let i=0; i<coluns; i++){
 		for(let j=0; j<rows; j++){
