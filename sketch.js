@@ -43,7 +43,7 @@ function draw() {
 
   	let next = maker2DGrid(rows, coluns);
 
-  	//Verify neighbots
+  	//Verify neighbors
   	for(let i=0; i<coluns; i++){
 		for(let j=0; j<rows; j++){
 			//Count live neighbors! 
